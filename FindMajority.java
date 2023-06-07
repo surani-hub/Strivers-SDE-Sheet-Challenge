@@ -1,6 +1,7 @@
 public class FindMajority {
     public static void main(String[] args) {
         int[] arr = { 2, 3, 9, 2, 2 };
+        
         System.out.println(findMajority(arr, arr.length));
     }
 
